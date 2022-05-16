@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.num1{
+    height: 45px;
+    width:500px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    border: 3px solid grey;
+    border-radius: 7px;
+    text-align: center;
+    font-size: 80%;
+    color:grey;
+    
+    
+}
+.num2{
+    height: 45px;
+    width:500px;
+    margin-bottom: 15px;
+    margin-left: 30px;
+    border: 3px solid grey;
+    border-radius: 7px;
+    text-align: center;
+    font-size: 80%;
+    color:grey;
+    
+}
+
+
+ .cal{
+    padding: 7px 20px 7px 20px;
+    margin-left: 292px;
+    background-color: rgb(209, 209, 209);
+    border: 3px solid grey;
+    border-radius: 7px;
+    font-size: 25px;    
+ }
+
+ .calDiv{
+     margin: 150px 0 0 200px;
+ }
+
+.inputDiv{
+    margin: 80px 0 0 200px;
+}
