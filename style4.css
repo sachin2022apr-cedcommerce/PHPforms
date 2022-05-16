@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.time{
+    height: 70px;
+    width:500px;
+    
+    border: 3px solid grey;
+    border-radius: 7px;
+    text-align: center;
+    font-size: 85%;
+    color:rgb(112, 111, 111);
+    
+    
+}
+
+input[type='radio'] {
+    accent-color: rgb(82, 82, 82);
+    height:20px; 
+    width:20px;
+    background: grey;
+  }
+  
+
+  
+ 
+
+ .calDiv{
+    text-align: center;    
+ }
+
+
+.inputDiv{
+    margin: 90px 0 0 260px;
+    width:500px;
+}
+.cal{
+    height: 70px;
+    width:500px;
+    
+    border: 3px solid grey;
+    border-radius: 7px;
+    text-align: center;
+    font-size: 85%;
+    background: rgb(238, 238, 238);
+    
+}
